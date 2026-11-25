@@ -1,6 +1,6 @@
 import os
 
-SENTENCE = "Ma'am, I know the Wi-Fi died mid-meeting and the printer is possessed, but have you tried turning it off and on again? It's the IT version of a deep breath."
+SENTENCE = "Ma'am, I know the Wi-Fi died mid-meeting and the printer is haunted, but have you tried turning it off and on again? It's the IT version of a deep breath."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
